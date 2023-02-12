@@ -1,0 +1,12 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 05 Jan 2023, 20 Jan 2023, No
+admin, Assign initial tasks., Use taskManager.py to assign each team member with appropriate tasks, 05 Jan 2023, 26 Jan 2023, Yes
+user1, Filtering Emails., Filtering Emails through the database., 04 Jan 2023, 06 Dec 2023, No
+user2, Database Building., Database Building for all company's subcontractors., 05 Jan 2023, 06 Feb 2023, Yes
+tom, Answering Customer Service Emails., Answering Customer Service Emails and log all compliments and complaints., 05 Jan 2023, 15 Jan 2023, No
+user3, Sending of Greetings eCards., Sending of Greetings eCards for festive season., 03 Jan 2023, 23 Jan 2023, Yes
+joe, Calendar Management., Calendar Management for all outstanding tasks., 05 Dec 2022, 04 Jan 2023, No
+tom, Appointment Scheduling., Appointment Scheduling for new visitors., 22 Dec 2022, 18 Dec 2022, No
+user2, Travel Arrangement and Planning., Travel Arrangement and Planning  for CEO., 05 Jan 2023, 8 Jan 2023, No
+tom, Reminder Services., Update the Reminder Services and distribute for all team., 06 Jan 2023, 18 Jan 2023, Yes
+joe, Creating Email Newsletters., Creating Email Newsletters for all of our clients, 05 Jan 2023, 10 Jan 2023, Yes
+user2, Update linkedin., Creating and Scheduling Broadcast Emails to Promote Content, 12 Dec 2022, 2 Jan 2023, No
